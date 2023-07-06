@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.192b1f8b.js",
+    "static/js/335.2a5a4ebd.js": "/static/js/335.2a5a4ebd.js",
+    "static/media/android.apk": "/static/media/android.94f558edf30641c9e87e.apk",
+    "static/media/top.tp": "/static/media/top.9d15d328f0a2b5a805ca.tp",
+    "static/media/ios.mobileconfig": "/static/media/ios.63b0083b4817ade9b29a.mobileconfig",
+    "static/media/1.jpg": "/static/media/1.9dd89046b3bea5ef546e.jpg",
+    "static/media/bottom.jpg": "/static/media/bottom.fcae9977e6b6ea056ada.jpg",
+    "static/media/Logo.png": "/static/media/Logo.cce22a30cca76938b8d0.png",
+    "static/media/4.jpg": "/static/media/4.6a7e38ff51cbff61883b.jpg",
+    "static/media/5.jpg": "/static/media/5.193652c6e52e3a6e90d6.jpg",
+    "static/media/3.jpg": "/static/media/3.6914d24df59e58a6c02c.jpg",
+    "static/media/6.jpg": "/static/media/6.df94ed97a70e2b054442.jpg",
+    "static/media/2.jpg": "/static/media/2.0a857f48250084e70a63.jpg",
+    "static/media/play_video.png": "/static/media/play_video.06f61928787ceb767f3b.png",
+    "index.html": "/index.html",
+    "serve.json": "/serve.json",
+    "manifest.json": "/manifest.json",
+    "main.192b1f8b.js.map": "/static/js/main.192b1f8b.js.map",
+    "335.2a5a4ebd.js.map": "/static/js/335.2a5a4ebd.js.map"
+  },
+  "entrypoints": [
+    "static/js/335.2a5a4ebd.js",
+    "static/js/main.192b1f8b.js"
+  ]
+}
